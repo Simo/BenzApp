@@ -1,0 +1,42 @@
+<% title "Distributor" %>
+
+<p>
+  <strong>Provincia:</strong>
+  <%= @distributor.provincia %>
+</p>
+<p>
+  <strong>Comune:</strong>
+  <%= @distributor.comune %>
+</p>
+<p>
+  <strong>Indirizzo:</strong>
+  <%= @distributor.indirizzo %>
+</p>
+<p>
+  <strong>Fulladdress:</strong>
+  <%= @distributor.fulladdress %>
+</p>
+<p>
+  <strong>Img Url:</strong>
+  <%= @distributor.img_url %>
+</p>
+<p>
+  <strong>Tipo:</strong>
+  <%= @distributor.tipo %>
+</p>
+<p>
+  <strong>Prezzo:</strong>
+  <%= @distributor.prezzo %>
+</p>
+<p>
+  <strong>Prezzo Min:</strong>
+  <%= @distributor.prezzo_min %>
+</p>
+<p>
+	<%= image_tag "http://maps.google.com/maps/api/staticmap?size=450x300&sensor=false&zoom=16&markers=#{@distributor.latitude}%2C#{@distributor.longitude}" %>
+</p>
+<p>
+  <%= link_to "Edit", edit_distributor_path(@distributor) %> |
+  <%= link_to "Destroy", @distributor, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", distributors_path %>
+</p>

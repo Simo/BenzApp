@@ -1,0 +1,30 @@
+<% title "Distributors" %>
+
+<table>
+  <tr>
+    <th>Provincia</th>
+    <th>Comune</th>
+    <th>Indirizzo</th>
+    <th>Prezzo</th>
+    <th>Prezzo Min</th>
+    <th>Longitude</th>
+    <th>Latitudes</th>
+  </tr>
+  <% for distributor in @distributors %>
+    <tr>
+      <td><%= distributor.provincia %></td>
+      <td><%= distributor.comune %></td>
+      <td><%= distributor.indirizzo %></td>
+      <td><%= distributor.tipo %></td>
+      <td><%= distributor.prezzo %></td>
+      <td><%= distributor.prezzo_min %></td>
+      <td><%= distributor.longitude %></td>
+      <td><%= distributor.latitude %></td>
+      <td><%= link_to "Show", distributor %></td>
+      <td><%= link_to "Edit", edit_distributor_path(distributor) %></td>
+      <td><%= link_to "Destroy", distributor, :confirm => 'Are you sure?', :method => :delete %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Distributor", new_distributor_path %></p>

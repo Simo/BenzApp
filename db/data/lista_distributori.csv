@@ -1,0 +1,536 @@
+GO; STARANZANO ; STRADA SAN CANCIANO 11; STRADA SAN CANCIANO 11,  STARANZANO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,76;1,76
+UD; S. DANIELE DEL FRIULI  ; VIA NAZIONALE 12; VIA NAZIONALE 12,  S. DANIELE DEL FRIULI  ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,704;1,704
+UD; TAVAGNACCO ; VIA MILANO 25; VIA MILANO 25,  TAVAGNACCO ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,708;1,699
+PN; MANIAGO    ; VIA MARCO POLO 26; VIA MARCO POLO 26,  MANIAGO    ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S/N;;
+UD; RIVE D'ARCANO          ; VIA CARNIA 27; VIA CARNIA 27,  RIVE D'ARCANO          ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,663;1,663
+UD; S. GIORGIO DI NOGARO   ; VIA III ARMATA 47; VIA III ARMATA 47,  S. GIORGIO DI NOGARO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,699
+PN; ZOPPOLA    ; SS 13 KM 92+911 50; SS 13 KM 92+911 50,  ZOPPOLA    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,708;1,708
+TS; TRIESTE    ; VIA FLAVIA 59; VIA FLAVIA 59,  TRIESTE    ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,655;1,655
+UD; REMANZACCO ; S.P. N. 96 CERNEGLONS 100; S.P. N. 96 CERNEGLONS 100,  REMANZACCO ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,712;1,704
+UD; REMANZACCO ; S.P. N. 96 CERNEGLONS 100; S.P. N. 96 CERNEGLONS 100,  REMANZACCO ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,712;1,704
+UD; GEMONA DEL FRIULI      ; OSOPPO 130; OSOPPO 130,  GEMONA DEL FRIULI      ;" <img src=""img/loghi/FRIULOIL.gif"" alt=""FRIULOIL"" border=""0"">";  S;1,658;1,658
+UD; TRICESIMO  ; VIA ROMA 173; VIA ROMA 173,  TRICESIMO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,653;1,653
+UD; PALUZZA    ; SS 52 KM 13 750; SS 52 KM 13 750,  PALUZZA    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,691;1,691
+UD; UDINE      ; VIA TRICESIMO 46       ; VIA TRICESIMO 46       ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,763;1,763
+PN; FONTANAFREDDA          ; VIALE EUROPA UNITA 2   ; VIALE EUROPA UNITA 2   ,  FONTANAFREDDA          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,761;1,761
+UD; VILLA SANTINA          ; SS 52 KM 19+046        ; SS 52 KM 19+046        ,  VILLA SANTINA          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,76;1,76
+UD; UDINE      ; LOC.PADERNO-V.LE TRICESIMO 93 ; LOC.PADERNO-V.LE TRICESIMO 93 ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,757;1,757
+PN; PORDENONE  ; VIA AQUILEIA 30        ; VIA AQUILEIA 30        ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,757;1,757
+PN; PORDENONE  ; VIALE GRIGOLETTI 40    ; VIALE GRIGOLETTI 40    ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,757;1,705
+UD; TOLMEZZO   ; VIA MARCHI 14          ; VIA MARCHI 14          ,  TOLMEZZO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,756;1,756
+UD; CHIUSAFORTE; VIA CASASOLA 1         ; VIA CASASOLA 1         ,  CHIUSAFORTE;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,755;1,755
+UD; LIGNANO SABBIADORO     ; VIA LATISANA 86        ; VIA LATISANA 86        ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,755;1,755
+UD; RIVIGNANO  ; VIA CAVOUR 75          ; VIA CAVOUR 75          ,  RIVIGNANO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,755;1,755
+UD; TARVISIO   ; VIA DIAZ 56; VIA DIAZ 56,  TARVISIO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,755;1,755
+UD; MALBORGHETTO VALBRUNA  ; VIA NAZIONALE 29       ; VIA NAZIONALE 29       ,  MALBORGHETTO VALBRUNA  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,755;1,745
+UD; REANA DEL ROIALE       ; VIA NAZIONALE 22       ; VIA NAZIONALE 22       ,  REANA DEL ROIALE       ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,754;1,754
+TS; TRIESTE    ; V.LE CAMPI ELISI 59    ; V.LE CAMPI ELISI 59    ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,754;1,754
+TS; TRIESTE    ; STR.DEL FRIULI 5       ; STR.DEL FRIULI 5       ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,754;1,754
+PN; FONTANAFREDDA          ; VIA ANTONINI 4         ; VIA ANTONINI 4         ,  FONTANAFREDDA          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,752;1,707
+PN; BUDOIA     ; VIA VERDI 9; VIA VERDI 9,  BUDOIA     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,751;1,751
+PN; POLCENIGO  ; VIA PEDEMONTANA 32     ; VIA PEDEMONTANA 32     ,  POLCENIGO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,751;1,751
+UD; COMEGLIANS ; SS.355     ; SS.355     ,  COMEGLIANS ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,751;1,711
+TS; DUINO AURISINA         ; A4 DUINO SUD           ; A4 DUINO SUD           ,  DUINO AURISINA         ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  A/N;1,751;1,704
+PN; MANIAGO    ; VIA ARBA 45; VIA ARBA 45,  MANIAGO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,751;1,669
+UD; POVOLETTO  ; FRAZ.RAVOSA V.RIO MAGGIORE 17 ; FRAZ.RAVOSA V.RIO MAGGIORE 17 ,  POVOLETTO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,75;1,75
+UD; GONARS     ; A4 GONARS NORD         ; A4 GONARS NORD         ,  GONARS     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  A/N;1,749;1,749
+PN; AZZANO DECIMO          ; VIA I MAGGIO 59        ; VIA I MAGGIO 59        ,  AZZANO DECIMO          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,749;1,749
+UD; TORREANO DI CIVIDALE   ; LOC.CROSADA 5          ; LOC.CROSADA 5          ,  TORREANO DI CIVIDALE   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,748;1,748
+UD; UDINE      ; V.LE L.DA VINCI 147    ; V.LE L.DA VINCI 147    ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,748;1,748
+GO; GRADISCA D'ISONZO      ; VIA UDINE 60           ; VIA UDINE 60           ,  GRADISCA D'ISONZO      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,748;1,748
+UD; CAMPOFORMIDO           ; SS 13 PONTEBBANA KM 122/763   ; SS 13 PONTEBBANA KM 122/763   ,  CAMPOFORMIDO           ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S/N;1,748;1,708
+UD; S. VITO AL TORRE       ; VIA GORIZIA 12         ; VIA GORIZIA 12         ,  S. VITO AL TORRE       ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,748;1,708
+PN; MONTEREALE VALCELLINA  ; VIA DELL'OMO 47/A      ; VIA DELL'OMO 47/A      ,  MONTEREALE VALCELLINA  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,748;1,656
+UD; CODROIPO   ; V.LE DUODO 52          ; V.LE DUODO 52          ,  CODROIPO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,747;1,747
+TS; TRIESTE    ; VIA FORLANINI-LOC.CATTINARA   ; VIA FORLANINI-LOC.CATTINARA   ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,746;1,699
+TS; TRIESTE    ; V.LE MIRAMARE 49       ; V.LE MIRAMARE 49       ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,746;1,694
+PN; PORCIA     ; VIA SPINAZZEDO 10      ; VIA SPINAZZEDO 10      ,  PORCIA     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,745;1,745
+PN; SPILIMBERGO; VIA MANIAGO 2          ; VIA MANIAGO 2          ,  SPILIMBERGO;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,745;1,745
+UD; FORGARIA NEL FRIULI    ; FRAZ.FLAGOGNA VIA PINZANO 8   ; FRAZ.FLAGOGNA VIA PINZANO 8   ,  FORGARIA NEL FRIULI    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,745;1,735
+GO; S. CANZIAN D'ISONZO    ; FRAZ.PIERIS VIA BATTISTI 22   ; FRAZ.PIERIS VIA BATTISTI 22   ,  S. CANZIAN D'ISONZO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,743;1,743
+GO; STARANZANO ; VIA TRIESTE 33         ; VIA TRIESTE 33         ,  STARANZANO ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,743;1,743
+UD; TARCENTO   ; LOC.COLLALTO SS 13 KM 146+398 ; LOC.COLLALTO SS 13 KM 146+398 ,  TARCENTO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,742;1,677
+PN; PRAVISDOMINI           ; VIA FRATTINA 46        ; VIA FRATTINA 46        ,  PRAVISDOMINI           ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,741;1,741
+TS; TRIESTE    ; VIA DELL'ISTRIA 155    ; VIA DELL'ISTRIA 155    ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,741;1,694
+TS; TRIESTE    ; VIA FORTI 2; VIA FORTI 2,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,741;1,689
+TS; TRIESTE    ; VIA DELL'ISTRIA 210    ; VIA DELL'ISTRIA 210    ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,741;1,689
+TS; TRIESTE    ; MONTE SAN PANTALEONE-AREA SUD ; MONTE SAN PANTALEONE-AREA SUD ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  A/N;1,741;1,629
+PN; CORDENONS  ; VIA MAESTRA VECCHIA 170; VIA MAESTRA VECCHIA 170,  CORDENONS  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,74;1,695
+PN; PORDENONE  ; VIALE TREVISO 38       ; VIALE TREVISO 38       ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,74;1,67
+UD; BUIA; VIA SANTO STEFANO 144  ; VIA SANTO STEFANO 144  ,  BUIA;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,699
+PN; CORDOVADO  ; P.ZZA CECCHINI 1       ; P.ZZA CECCHINI 1       ,  CORDOVADO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,699
+PN; S. QUIRINO ; VIA MONTEGRAPPA 26     ; VIA MONTEGRAPPA 26     ,  S. QUIRINO ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,699
+PN; SESTO AL REGHENA       ; VIA JULIA CONCORDIA 50 ; VIA JULIA CONCORDIA 50 ,  SESTO AL REGHENA       ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,699
+PN; CORDENONS  ; VIA SCLAVONS 136       ; VIA SCLAVONS 136       ,  CORDENONS  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,695
+UD; CERVIGNANO DEL FRIULI  ; VIA VENEZIA 6          ; VIA VENEZIA 6          ,  CERVIGNANO DEL FRIULI  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S/N;1,739;1,679
+UD; CODROIPO   ; VIA LIGNANO 10         ; VIA LIGNANO 10         ,  CODROIPO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,669
+PN; MANIAGO    ; VIA VIVARINA 25/A LOC. DANDOLO; VIA VIVARINA 25/A LOC. DANDOLO,  MANIAGO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,739;1,669
+GO; MONFALCONE ; VIA VALENTINIS 61      ; VIA VALENTINIS 61      ,  MONFALCONE ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S/N;1,738;1,683
+PN; PRATA DI PORDENONE     ; VIA CROCE 6; VIA CROCE 6,  PRATA DI PORDENONE     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,737;1,692
+GO; GORIZIA    ; VIA DON BOSCO 108      ; VIA DON BOSCO 108      ,  GORIZIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,737;1,637
+PN; MANIAGO    ; V.LE REPUBBLICA 120    ; V.LE REPUBBLICA 120    ,  MANIAGO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,736;1,736
+PN; PORCIA     ; V. BRUNIS LOC. PALSE DI PORCIA; V. BRUNIS LOC. PALSE DI PORCIA,  PORCIA     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,736;1,676
+UD; MANZANO    ; FRAZ OLEIS SP NATISONE KM2+300; FRAZ OLEIS SP NATISONE KM2+300,  MANZANO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,735;1,735
+GO; GORIZIA    ; VIA CRISPI 14          ; VIA CRISPI 14          ,  GORIZIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,735;1,683
+GO; S. LORENZO ISONTINO    ; SS 56 KM 28+593        ; SS 56 KM 28+593        ,  S. LORENZO ISONTINO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,733;1,733
+UD; BERTIOLO   ; STRADALTA 2; STRADALTA 2,  BERTIOLO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,733;1,692
+UD; UDINE      ; VIALE XXIII MARZO 16   ; VIALE XXIII MARZO 16   ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,732;1,692
+PN; SPILIMBERGO; SS 464 KM 18+145       ; SS 464 KM 18+145       ,  SPILIMBERGO;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,732;1,692
+PN; CORDENONS  ; VIA CHIAVORNICCO 40/A  ; VIA CHIAVORNICCO 40/A  ,  CORDENONS  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,73;1,69
+PN; PORDENONE  ; VIA TREVISO N.27       ; VIA TREVISO N.27       ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,73;1,67
+PN; PORDENONE  ; VIA UDINE 126          ; VIA UDINE 126          ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,73;1,66
+PN; MEDUNO     ; VIA PRINCIPALE 20      ; VIA PRINCIPALE 20      ,  MEDUNO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,729;1,729
+GO; GORIZIA    ; VIA AQUILEIA 60        ; VIA AQUILEIA 60        ,  GORIZIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,729;1,679
+GO; GORIZIA    ; VIA DUCA D'AOSTA 74    ; VIA DUCA D'AOSTA 74    ,  GORIZIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,729;1,657
+PN; CHIONS     ; VIA TREVISO 8          ; VIA TREVISO 8          ,  CHIONS     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,728;1,668
+UD; UDINE      ; V.LE PALMANOVA 129     ; V.LE PALMANOVA 129     ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S/N;1,728;1,658
+GO; FOGLIANO REDIPUGLIA    ; V.LE III ARMATA 58     ; V.LE III ARMATA 58     ,  FOGLIANO REDIPUGLIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,725;1,678
+UD; PALMANOVA  ; VIA TAGLIO 8/A         ; VIA TAGLIO 8/A         ,  PALMANOVA  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,715;1,715
+UD; COLLOREDO DI MONTALBANO; S.P. OSOVANA           ; S.P. OSOVANA           ,  COLLOREDO DI MONTALBANO;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,711;1,711
+UD; S. PIETRO AL NATISONE  ; LOC.AZZIDA ZONA IND.34 ; LOC.AZZIDA ZONA IND.34 ,  S. PIETRO AL NATISONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,711;1,711
+UD; SEDEGLIANO ; FR.TURRIDA VIA FOGAZZARO 35   ; FR.TURRIDA VIA FOGAZZARO 35   ,  SEDEGLIANO ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,711;1,711
+UD; PAVIA DI UDINE         ; VIA AQUILEIA 16        ; VIA AQUILEIA 16        ,  PAVIA DI UDINE         ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,708;1,708
+UD; S. LEONARDO; FRAZ.CEMUR ; FRAZ.CEMUR ,  S. LEONARDO;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,705;1,705
+UD; TRASAGHIS  ; SS  512 KM  19+530     ; SS  512 KM  19+530     ,  TRASAGHIS  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,705;1,705
+UD; CIVIDALE DEL FRIULI    ; VIALE LIBERTA' 5       ; VIALE LIBERTA' 5       ,  CIVIDALE DEL FRIULI    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,703;1,703
+UD; CIVIDALE DEL FRIULI    ; INDIPENDENZA 1         ; INDIPENDENZA 1         ,  CIVIDALE DEL FRIULI    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,703;1,703
+PN; PASIANO DI PORDENONE   ; STRADA DEL MOBILE B/3  ; STRADA DEL MOBILE B/3  ,  PASIANO DI PORDENONE   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,701;1,701
+UD; POZZUOLO DEL FRIULI    ; CARGNACCO VIA BUTTRIO 59      ; CARGNACCO VIA BUTTRIO 59      ,  POZZUOLO DEL FRIULI    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,699;1,699
+PN; AVIANO     ; VIA PORDENONE 95       ; VIA PORDENONE 95       ,  AVIANO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,699;1,699
+PN; AVIANO     ; VIA PORDENONE 48/B     ; VIA PORDENONE 48/B     ,  AVIANO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,699;1,699
+PN; AVIANO     ; VIA PORDENONE 44       ; VIA PORDENONE 44       ,  AVIANO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,699;1,699
+PN; MORSANO AL TAGLIAMENTO ; VIA ROMA 11/A          ; VIA ROMA 11/A          ,  MORSANO AL TAGLIAMENTO ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,699;1,699
+UD; CERVIGNANO DEL FRIULI  ; VIA AQUILEIA 98/3      ; VIA AQUILEIA 98/3      ,  CERVIGNANO DEL FRIULI  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,697;1,697
+UD; UDINE      ; VIA POZZUOLO 249       ; VIA POZZUOLO 249       ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,697;1,697
+UD; VARMO      ; LOC.PONTE DI MADRISIO  ; LOC.PONTE DI MADRISIO  ,  VARMO      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,697;1,697
+PN; PRATA DI PORDENONE     ; VIA OPITERGINA 40      ; VIA OPITERGINA 40      ,  PRATA DI PORDENONE     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,697;1,697
+UD; MAJANO     ; VIA RINO SNAIDERO 7    ; VIA RINO SNAIDERO 7    ,  MAJANO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,694;1,694
+UD; UDINE      ; TANGENZIALE OVEST 1    ; TANGENZIALE OVEST 1    ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,694;1,694
+GO; GORIZIA    ; VIA LUNGO ISONZO ARGENTINA 36 ; VIA LUNGO ISONZO ARGENTINA 36 ,  GORIZIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,693;1,693
+UD; NIMIS      ; VIA UDINE 10           ; VIA UDINE 10           ,  NIMIS      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,692;1,692
+UD; PAGNACCO   ; FRAZ.PLAINO-VIA DEI BRAZZA'   ; FRAZ.PLAINO-VIA DEI BRAZZA'   ,  PAGNACCO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,692;1,692
+UD; PRADAMANO  ; VIA UDINE 22           ; VIA UDINE 22           ,  PRADAMANO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,692;1,692
+UD; UDINE      ; VIA CIVIDALE 357       ; VIA CIVIDALE 357       ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,692;1,692
+TS; TRIESTE    ; VIA A.VALERIO 1        ; VIA A.VALERIO 1        ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,69;1,69
+PN; FIUME VENETO           ; RACC. AUT. 16 KM 0+700 ; RACC. AUT. 16 KM 0+700 ,  FIUME VENETO           ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,69;1,69
+UD; UDINE      ; VIA M.G. NOGARA 92     ; VIA M.G. NOGARA 92     ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,689;1,689
+TS; TRIESTE    ; VIA D'ALVIANO 14       ; VIA D'ALVIANO 14       ,  TRIESTE    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,689;1,689
+GO; GORIZIA    ; VIA TRIESTE 179        ; VIA TRIESTE 179        ,  GORIZIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,688;1,688
+GO; RONCHI DEI LEGIONARI   ; SS 305 KM 14+075       ; SS 305 KM 14+075       ,  RONCHI DEI LEGIONARI   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,688;1,688
+PN; SACILE     ; VIA PEDRADA N.7        ; VIA PEDRADA N.7        ,  SACILE     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,688;1,688
+GO; ROMANS D'ISONZO        ; V.LE PALMANOVA SR 252 KM37+160; V.LE PALMANOVA SR 252 KM37+160,  ROMANS D'ISONZO        ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,683;1,683
+UD; AIELLO     ; VIA MAMELI 11/C        ; VIA MAMELI 11/C        ,  AIELLO     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,681;1,681
+UD; MORTEGLIANO; BUIATTI 1  ; BUIATTI 1  ,  MORTEGLIANO;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,679;1,679
+UD; GEMONA DEL FRIULI      ; VIA BARIGLARIA 70      ; VIA BARIGLARIA 70      ,  GEMONA DEL FRIULI      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,677;1,677
+UD; RIVE D'ARCANO          ; VIA FAGAGNA 15         ; VIA FAGAGNA 15         ,  RIVE D'ARCANO          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,677;1,677
+UD; TARCENTO   ; VIA UDINE 28           ; VIA UDINE 28           ,  TARCENTO   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,677;1,677
+UD; FAGAGNA    ; VIA SAN VITO N 7       ; VIA SAN VITO N 7       ,  FAGAGNA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,672;1,672
+UD; MARTIGNACCO; VIA BARDELLI 4         ; VIA BARDELLI 4         ,  MARTIGNACCO;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,672;1,672
+PN; ARBA; SS 464 KM 7+592        ; SS 464 KM 7+592        ,  ARBA;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,672;1,672
+PN; S. VITO AL TAGLIAMENTO ; VIALE DEL MATTINO 1    ; VIALE DEL MATTINO 1    ,  S. VITO AL TAGLIAMENTO ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,672;1,672
+PN; BRUGNERA   ; VIA UNGARESCA 30       ; VIA UNGARESCA 30       ,  BRUGNERA   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,67;1,67
+UD; LATISANA   ; VIA ISONZO 52          ; VIA ISONZO 52          ,  LATISANA   ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,669;1,669
+PN; SACILE     ; VIALE MATTEOTTI 10     ; VIALE MATTEOTTI 10     ,  SACILE     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,668;1,668
+UD; GONARS     ; S.S.252 KM 20+875      ; S.S.252 KM 20+875      ,  GONARS     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,663;1,663
+PN; PORDENONE  ; SS PONTABBANA KM78+771 ; SS PONTABBANA KM78+771 ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,662;1,662
+PN; AZZANO DECIMO          ; VIA CENTRALE 15/1      ; VIA CENTRALE 15/1      ,  AZZANO DECIMO          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,65;1,65
+UD; CERVIGNANO ; VIALE III ARMATA 4     ; VIALE III ARMATA 4     ,  CERVIGNANO ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; MANZANO    ; VIA UDINE 30           ; VIA UDINE 30           ,  MANZANO    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; MARANO LAGUNARE        ; VIA UDINE 9; VIA UDINE 9,  MARANO LAGUNARE        ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; MOGGIO UDINESE         ; VIA ERMOLLI 33         ; VIA ERMOLLI 33         ,  MOGGIO UDINESE         ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; POCENIA    ; VIA ROMA 137           ; VIA ROMA 137           ,  POCENIA    ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; S. GIOVANNI AL NATISONE; VIA PALMARINA 38       ; VIA PALMARINA 38       ,  S. GIOVANNI AL NATISONE;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; TRICESIMO  ; VIA PONTEBBANA 3       ; VIA PONTEBBANA 3       ,  TRICESIMO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; UDINE      ; V.LE DUODO 20          ; V.LE DUODO 20          ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; UDINE      ; VIALE LEDRA 40         ; VIALE LEDRA 40         ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S/N;;
+UD; UDINE      ; VIA COTONIFICIO 241    ; VIA COTONIFICIO 241    ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; UDINE      ; VIA LA SPEZIA 100      ; VIA LA SPEZIA 100      ,  UDINE      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+GO; GRADO      ; VIA DELLO SQUERO 22    ; VIA DELLO SQUERO 22    ,  GRADO      ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+GO; MONFALCONE ; VIA A. MATTEOTTI 21    ; VIA A. MATTEOTTI 21    ,  MONFALCONE ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+GO; MONFALCONE ; BIVIO SAN POLO         ; BIVIO SAN POLO         ,  MONFALCONE ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+TS; MUGGIA     ; PORTO SAN ROCCO        ; PORTO SAN ROCCO        ,  MUGGIA     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  M;;
+PN; CAVASSO NUOVO          ; VIA PETRARCA 3         ; VIA PETRARCA 3         ,  CAVASSO NUOVO          ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+PN; POLCENIGO  ; VIA PORDENONE 139/A    ; VIA PORDENONE 139/A    ,  POLCENIGO  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+PN; SACILE     ; VIA S.GIOVANNI 36/C    ; VIA S.GIOVANNI 36/C    ,  SACILE     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+PN; SACILE     ; VIA MARTIRI SFRISO 40  ; VIA MARTIRI SFRISO 40  ,  SACILE     ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;;
+UD; S. GIORGIO DI NOGARO   ; VIA E.FERMI N.21       ; VIA E.FERMI N.21       ,  S. GIORGIO DI NOGARO   ;" <img src=""img/loghi/ANONIMO.gif"" alt=""ANONIMO"" border=""0"">";  S;;
+UD; CODROIPO   ; VIALE VENEZIA 112      ; VIALE VENEZIA 112      ,  CODROIPO   ;" <img src=""img/loghi/BIG.gif"" alt=""BIG"" border=""0"">";  S;1,61;1,61
+PN; SACILE     ; VIA S.LIBERALE 11      ; VIA S.LIBERALE 11      ,  SACILE     ;" <img src=""img/loghi/COSTANTIN.gif"" alt=""COSTANTIN"" border=""0"">";  S;1,724;1,724
+PN; ZOPPOLA    ; VIA PANCERA 50         ; VIA PANCERA 50         ,  ZOPPOLA    ;" <img src=""img/loghi/COSTANTIN.gif"" alt=""COSTANTIN"" border=""0"">";  S;1,724;1,724
+PN; ZOPPOLA    ; VIA CUSANO 14          ; VIA CUSANO 14          ,  ZOPPOLA    ;" <img src=""img/loghi/COSTANTIN.gif"" alt=""COSTANTIN"" border=""0"">";  S;1,724;1,724
+PN; PORCIA     ; CORSO ZANUSSI 29       ; CORSO ZANUSSI 29       ,  PORCIA     ;" <img src=""img/loghi/COSTANTIN.gif"" alt=""COSTANTIN"" border=""0"">";  S;1,654;1,654
+PN; PORDENONE  ; VIA MONTEREALE 157/A   ; VIA MONTEREALE 157/A   ,  PORDENONE  ;" <img src=""img/loghi/COSTANTIN.gif"" alt=""COSTANTIN"" border=""0"">";  S;;
+PN; S. QUIRINO ; VIA MANIAGO 28         ; VIA MANIAGO 28         ,  S. QUIRINO ;" <img src=""img/loghi/COSTANTIN.gif"" alt=""COSTANTIN"" border=""0"">";  S;;
+UD; AIELLO     ; VIA G.MAMELI S.P. EX TOTAL    ; VIA G.MAMELI S.P. EX TOTAL    ,  AIELLO     ;" <img src=""img/loghi/DRUSIAN.gif"" alt=""DRUSIAN"" border=""0"">";  S;1,679;1,679
+GO; GRADO      ; RIVA UGO FOSCOLO 1     ; RIVA UGO FOSCOLO 1     ,  GRADO      ;" <img src=""img/loghi/DRUSIAN.gif"" alt=""DRUSIAN"" border=""0"">";  S/M;;
+UD; CODROIPO   ; VIA LIGNANO 4          ; VIA LIGNANO 4          ,  CODROIPO   ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,733;1,668
+UD; MORTEGLIANO; VIA MARCONI 27         ; VIA MARCONI 27         ,  MORTEGLIANO;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,728;1,678
+UD; POZZUOLO DEL FRIULI    ; VIA QUARTO GENOVA SR 353 KM9+4; VIA QUARTO GENOVA SR 353 KM9+4,  POZZUOLO DEL FRIULI    ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,728;1,678
+UD; TREPPO GRANDE          ; VIA ROMA 16; VIA ROMA 16,  TREPPO GRANDE          ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,719;1,719
+PN; SPILIMBERGO; SS 464 KM 15+276       ; SS 464 KM 15+276       ,  SPILIMBERGO;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,716;1,696
+GO; RONCHI DEI LEGIONARI   ; VIA AQUILEIA 35        ; VIA AQUILEIA 35        ,  RONCHI DEI LEGIONARI   ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,705;1,705
+PN; FIUME VENETO           ; VIA S.FRANCESCO 128    ; VIA S.FRANCESCO 128    ,  FIUME VENETO           ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,699;1,699
+UD; UDINE      ; V.LE DELLE FERRIERE 20 ; V.LE DELLE FERRIERE 20 ,  UDINE      ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,698;1,698
+GO; GORIZIA    ; VIA DEL S. MICHELE 57  ; VIA DEL S. MICHELE 57  ,  GORIZIA    ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,695;1,695
+GO; GORIZIA    ; VIA BRIGATA RE 20/B    ; VIA BRIGATA RE 20/B    ,  GORIZIA    ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,695;1,695
+PN; FIUME VENETO           ; A 28/SS 13 KM 0+750 DX ; A 28/SS 13 KM 0+750 DX ,  FIUME VENETO           ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,694;1,694
+PN; SEQUALS    ; VIA RISORGIMENTO 5     ; VIA RISORGIMENTO 5     ,  SEQUALS    ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,689;1,689
+PN; PASIANO DI PORDENONE   ; VIA ROMA 125           ; VIA ROMA 125           ,  PASIANO DI PORDENONE   ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,679;1,679
+GO; VILLESSE   ; S.S.351 KM.16+250      ; S.S.351 KM.16+250      ,  VILLESSE   ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,677;1,677
+UD; BUTTRIO    ; NAZIONALE 33           ; NAZIONALE 33           ,  BUTTRIO    ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,668;1,668
+GO; FARRA D'ISONZO         ;  VIA GORIZIA 109       ;  VIA GORIZIA 109       ,  FARRA D'ISONZO         ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,625;1,625
+GO; MONFALCONE ; G.F. POCAR ; G.F. POCAR ,  MONFALCONE ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;1,625;1,625
+UD; BAGNARIA ARSA          ; VIA JULIA AUGUSTA 29   ; VIA JULIA AUGUSTA 29   ,  BAGNARIA ARSA          ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;;
+UD; CORNO DI ROSAZZO       ; VIA AQUILEIA 51        ; VIA AQUILEIA 51        ,  CORNO DI ROSAZZO       ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;;
+UD; LIGNANO SABBIADORO     ; VIA DEI PLATANI 71     ; VIA DEI PLATANI 71     ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;;
+UD; MUZZANA DEL TURGNANO   ; VIA CASTIONS 13        ; VIA CASTIONS 13        ,  MUZZANA DEL TURGNANO   ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;;
+UD; UDINE      ; VIA MARTIGNACCO 39     ; VIA MARTIGNACCO 39     ,  UDINE      ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;;
+UD; UDINE      ; FRAZ.GODIA V. LA SPEZIA 380   ; FRAZ.GODIA V. LA SPEZIA 380   ,  UDINE      ;" <img src=""img/loghi/ERG.gif"" alt=""ERG"" border=""0"">";  S;;
+UD; COLLOREDO DI MONTALBANO; A23 LEDRA OVEST        ; A23 LEDRA OVEST        ,  COLLOREDO DI MONTALBANO;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  A/N;1,75;1,75
+UD; RESIUTTA   ; VIALE UDINE 11         ; VIALE UDINE 11         ,  RESIUTTA   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,724;1,724
+UD; VILLA SANTINA          ; SS 52 KM 19+820        ; SS 52 KM 19+820        ,  VILLA SANTINA          ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,709;1,709
+UD; S. DANIELE DEL FRIULI  ; VIA VENEZIA 9          ; VIA VENEZIA 9          ,  S. DANIELE DEL FRIULI  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,707;1,707
+UD; S. DANIELE DEL FRIULI  ; V.LE TRENTO E TRIESTE 83      ; V.LE TRENTO E TRIESTE 83      ,  S. DANIELE DEL FRIULI  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,707;1,707
+UD; TOLMEZZO   ; VIA MARCHI 2           ; VIA MARCHI 2           ,  TOLMEZZO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,707;1,707
+PN; TRAVESIO   ; SP 22 DELLA VAL COSA KM 6+904 ; SP 22 DELLA VAL COSA KM 6+904 ,  TRAVESIO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,707;1,707
+UD; TORVISCOSA ; STRADONE ZUINO NORD 244; STRADONE ZUINO NORD 244,  TORVISCOSA ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,689;1,689
+UD; MORTEGLIANO; SS 353 KM 12+911       ; SS 353 KM 12+911       ,  MORTEGLIANO;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,678;1,678
+UD; TARVISIO   ; SS 13 KM 220+230       ; SS 13 KM 220+230       ,  TARVISIO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,677;1,677
+UD; CIVIDALE DEL FRIULI    ; VIA UDINE 50           ; VIA UDINE 50           ,  CIVIDALE DEL FRIULI    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,674;1,674
+UD; S. GIORGIO DI NOGARO   ; SS 14 KM 100+990       ; SS 14 KM 100+990       ,  S. GIORGIO DI NOGARO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,673;1,673
+GO; MEDEA      ; PONTE SULLA VERSA 2    ; PONTE SULLA VERSA 2    ,  MEDEA      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,672;1,672
+PN; CASARSA DELLA DELIZIA  ; VIA NAZIONALE 25       ; VIA NAZIONALE 25       ,  CASARSA DELLA DELIZIA  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,672;1,672
+PN; ZOPPOLA    ; CODROIPO 14; CODROIPO 14,  ZOPPOLA    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,671;1,671
+UD; CERVIGNANO ; VIA VENEZIA 25         ; VIA VENEZIA 25         ,  CERVIGNANO ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,67;1,67
+GO; GORIZIA    ; VIA TRIESTE 106        ; VIA TRIESTE 106        ,  GORIZIA    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,67;1,67
+TS; SGONICO    ; SS. 202 KM. 18+945     ; SS. 202 KM. 18+945     ,  SGONICO    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,67;1,67
+TS; TRIESTE    ; P.ZZA FORAGGI 7        ; P.ZZA FORAGGI 7        ,  TRIESTE    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,67;1,67
+TS; TRIESTE    ; CARNARO/SS 202 KM 3+067; CARNARO/SS 202 KM 3+067,  TRIESTE    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,67;1,67
+GO; GORIZIA    ; VIA AQUILEIA 40        ; VIA AQUILEIA 40        ,  GORIZIA    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,669;1,669
+PN; AVIANO     ;" SP N. 7 ""DI AVIANO"" KM 6+847  ";" SP N. 7 ""DI AVIANO"" KM 6+847  ,  AVIANO     ";" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,669;1,669
+UD; GEMONA DEL FRIULI      ; VIA TABOGA 50          ; VIA TABOGA 50          ,  GEMONA DEL FRIULI      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,668;1,668
+UD; BUIA; VIA PROVINCIALE OSOVANA 82    ; VIA PROVINCIALE OSOVANA 82    ,  BUIA;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,667;1,667
+UD; CODROIPO   ; V.LE VENEZIA 92        ; V.LE VENEZIA 92        ,  CODROIPO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,667;1,667
+UD; LIGNANO SABBIADORO     ; V.LE EUROPA 16         ; V.LE EUROPA 16         ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,667;1,667
+UD; S. GIOVANNI AL NATISONE; SS 56 KM 17+135        ; SS 56 KM 17+135        ,  S. GIOVANNI AL NATISONE;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,667;1,667
+GO; S. CANZIAN D'ISONZO    ; VIA NAZARIO SAURO 1    ; VIA NAZARIO SAURO 1    ,  S. CANZIAN D'ISONZO    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,667;1,667
+TS; TRIESTE    ; P.LE VALMAURA 4        ; P.LE VALMAURA 4        ,  TRIESTE    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,665;1,665
+PN; PORDENONE  ; VIA DELLE GRAZIE 5     ; VIA DELLE GRAZIE 5     ,  PORDENONE  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,665;1,665
+PN; S. GIORGIO DELLA RICHINVELDA  ; FRAZ.RAUSCEDO VIA SILE 33     ; FRAZ.RAUSCEDO VIA SILE 33     ,  S. GIORGIO DELLA RICHINVELDA  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,665;1,665
+GO; MONFALCONE ; VIA BOITO 64           ; VIA BOITO 64           ,  MONFALCONE ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+TS; TRIESTE    ; VIA FLAVIA 120/1       ; VIA FLAVIA 120/1       ,  TRIESTE    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; AZZANO DECIMO          ; VIA TRIESTE 14         ; VIA TRIESTE 14         ,  AZZANO DECIMO          ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; CHIONS     ; VIA MARCONI 41         ; VIA MARCONI 41         ,  CHIONS     ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; FIUME VENETO           ; VIA DANTE 48           ; VIA DANTE 48           ,  FIUME VENETO           ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; PORDENONE  ; VIALE GRIGOLETTI 42    ; VIALE GRIGOLETTI 42    ,  PORDENONE  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; PORDENONE  ; VIALE VENEZIA 95       ; VIALE VENEZIA 95       ,  PORDENONE  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; PORDENONE  ; VIA MONTEREALE 88      ; VIA MONTEREALE 88      ,  PORDENONE  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; PORDENONE  ; VIALE GRIGOLETTI 115   ; VIALE GRIGOLETTI 115   ,  PORDENONE  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+PN; PORDENONE  ; VIA ROVEREDO SP 7 KM 0+230    ; VIA ROVEREDO SP 7 KM 0+230    ,  PORDENONE  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,664;1,664
+UD; FAGAGNA    ; VIA UDINE 61           ; VIA UDINE 61           ,  FAGAGNA    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,658;1,658
+TS; SGONICO    ; LOC. CAMPO SACRO SP1 DEL CARSO; LOC. CAMPO SACRO SP1 DEL CARSO,  SGONICO    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,658;1,658
+TS; TRIESTE    ; LOCALITA' VILLA OPICINA 993   ; LOCALITA' VILLA OPICINA 993   ,  TRIESTE    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,658;1,658
+TS; TRIESTE    ; VIA CAMPI ELISI        ; VIA CAMPI ELISI        ,  TRIESTE    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,658;1,658
+UD; TRICESIMO  ; VIA NAZIONALE 28       ; VIA NAZIONALE 28       ,  TRICESIMO  ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,657;1,657
+UD; UDINE      ; VIALE TRIESTE 3        ; VIALE TRIESTE 3        ,  UDINE      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,657;1,657
+UD; UDINE      ; VIA MARTIGNACCO 293    ; VIA MARTIGNACCO 293    ,  UDINE      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,657;1,657
+UD; UDINE      ; V.LE PALMANOVA 139     ; V.LE PALMANOVA 139     ,  UDINE      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,657;1,657
+UD; UDINE      ; V.LE MONSIGNOR NOGARA  ; V.LE MONSIGNOR NOGARA  ,  UDINE      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,657;1,657
+GO; MONFALCONE ; VIA I MAGGIO 59        ; VIA I MAGGIO 59        ,  MONFALCONE ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,657;1,657
+PN; MANIAGO    ; MARCO POLO 25          ; MARCO POLO 25          ,  MANIAGO    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,654;1,654
+UD; VILLA VICENTINA        ; SS 14 TRIESTINA KM 115+050    ; SS 14 TRIESTINA KM 115+050    ,  VILLA VICENTINA        ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;1,637;1,637
+UD; BAGNARIA ARSA          ; VIA JULIA AUGUSTA 7/B  ; VIA JULIA AUGUSTA 7/B  ,  BAGNARIA ARSA          ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; BUTTRIO    ; SS 56 KM 11+752        ; SS 56 KM 11+752        ,  BUTTRIO    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; CODROIPO   ; V.PONTE DELIZIA 4      ; V.PONTE DELIZIA 4      ,  CODROIPO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; CODROIPO   ; VIA CAVALCAVIA 11      ; VIA CAVALCAVIA 11      ,  CODROIPO   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; FAGAGNA    ; SPILIMBERGO SS 464     ; SPILIMBERGO SS 464     ,  FAGAGNA    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; LATISANA   ; VIA SABBIONERA         ; VIA SABBIONERA         ,  LATISANA   ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; LIGNANO SABBIADORO     ; V.LE EUROPA 150        ; V.LE EUROPA 150        ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; OSOPPO     ; LOC.RIVOLI SS 463 KM 4+515    ; LOC.RIVOLI SS 463 KM 4+515    ,  OSOPPO     ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+UD; UDINE      ; VIA GENERAL CANTORE 32 ; VIA GENERAL CANTORE 32 ,  UDINE      ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+GO; GORIZIA    ; VIA LUNGO ISONZO ARGENTINA 77 ; VIA LUNGO ISONZO ARGENTINA 77 ,  GORIZIA    ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+TS; DUINO AURISINA         ; FRAZ.SISTIANA SS 14    ; FRAZ.SISTIANA SS 14    ,  DUINO AURISINA         ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+PN; SACILE     ; VIALE TRENTO 7         ; VIALE TRENTO 7         ,  SACILE     ;" <img src=""img/loghi/ESSO.gif"" alt=""ESSO"" border=""0"">";  S;;
+TS; TRIESTE    ; PASSEGGIO S. ANDREA    ; PASSEGGIO S. ANDREA    ,  TRIESTE    ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,728;1,728
+UD; S. GIOVANNI AL NATISONE; VIA DEL COLLIO 12      ; VIA DEL COLLIO 12      ,  S. GIOVANNI AL NATISONE;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,718;1,718
+UD; S. GIOVANNI AL NATISONE; MADONNA DI STRADA 5    ; MADONNA DI STRADA 5    ,  S. GIOVANNI AL NATISONE;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,718;1,679
+UD; BUIA; VIA PROVINCIALE LAVIO 5; VIA PROVINCIALE LAVIO 5,  BUIA;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,704;1,704
+UD; UDINE      ; VIA CONTI 301 TANGENZIALE SUD ; VIA CONTI 301 TANGENZIALE SUD ,  UDINE      ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,704;1,704
+UD; FAGAGNA    ; SPILIMBERGO 122        ; SPILIMBERGO 122        ,  FAGAGNA    ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,692;1,692
+UD; TALMASSONS ;" SS 252 ""NAPOLEONICA"" KM 9+485 ";" SS 252 ""NAPOLEONICA"" KM 9+485 ,  TALMASSONS ";" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,688;1,688
+UD; TAVAGNACCO ; VIA MARCONI 90         ; VIA MARCONI 90         ,  TAVAGNACCO ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,688;1,688
+UD; MORTEGLIANO; DIVISIONE JULIA 67     ; DIVISIONE JULIA 67     ,  MORTEGLIANO;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;;
+PN; CASARSA DELLA DELIZIA  ; VIALE VENEZIA 39       ; VIALE VENEZIA 39       ,  CASARSA DELLA DELIZIA  ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,688;1,688
+UD; TARVISIO   ; FRAZ.CAMPOROSSO V.ALPI GIULIE ; FRAZ.CAMPOROSSO V.ALPI GIULIE ,  TARVISIO   ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,682;1,682
+TS; MUGGIA     ; LOC.AQUILINIA VIA FLAVIA 12/A ; LOC.AQUILINIA VIA FLAVIA 12/A ,  MUGGIA     ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,681;1,681
+UD; UDINE      ; VIALE PALMANOVA SS 56 KM 4+450; VIALE PALMANOVA SS 56 KM 4+450,  UDINE      ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,672;1,672
+UD; MAJANO     ; SS 463 KM 11+518       ; SS 463 KM 11+518       ,  MAJANO     ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,665;1,665
+UD; CODROIPO   ; VIA PORDENONE SS 13 PONTEBBANA; VIA PORDENONE SS 13 PONTEBBANA,  CODROIPO   ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,639;1,639
+UD; LATISANA   ; FRAZ. PERTEGADA VIA LIGNANO   ; FRAZ. PERTEGADA VIA LIGNANO   ,  LATISANA   ;" <img src=""img/loghi/H6.gif"" alt=""H6"" border=""0"">";  S;1,76;1,76
+PN; MONTEREALE VALCELLINA  ; LOC. S.LEONARDO VIA GIULIA 9  ; LOC. S.LEONARDO VIA GIULIA 9  ,  MONTEREALE VALCELLINA  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,704;1,704
+PN; TRAMONTI DI SOTTO      ; P.ZZA S.CROCE 5        ; P.ZZA S.CROCE 5        ,  TRAMONTI DI SOTTO      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,708;1,699
+PN; PORDENONE  ; VIALE GRIGOLETTI 46    ; VIALE GRIGOLETTI 46    ,  PORDENONE  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;;
+PN; S. VITO AL TAGLIAMENTO ; S.S.463 KM 43 + 500    ; S.S.463 KM 43 + 500    ,  S. VITO AL TAGLIAMENTO ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,663;1,663
+UD; CIVIDALE DEL FRIULI    ; VIA FRIULI 20          ; VIA FRIULI 20          ,  CIVIDALE DEL FRIULI    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,699
+UD; FAEDIS     ; VIA UDINE 68           ; VIA UDINE 68           ,  FAEDIS     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,708;1,708
+UD; PAULARO    ; VIA ROMA 76; VIA ROMA 76,  PAULARO    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,655;1,655
+UD; PREMARIACCO; SP 48 DI PREPOTTO KM 7+276    ; SP 48 DI PREPOTTO KM 7+276    ,  PREMARIACCO;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,712;1,704
+UD; FAEDIS     ; P.ZZA 1 MAGGIO 11      ; P.ZZA 1 MAGGIO 11      ,  FAEDIS     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,658;1,658
+UD; UDINE      ; VIA MARTIGNACCO 5      ; VIA MARTIGNACCO 5      ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,653;1,653
+UD; UDINE      ; P.LE CHIAVRIS 63       ; P.LE CHIAVRIS 63       ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,691;1,691
+UD; POZZUOLO DEL FRIULI    ; SS 353 KM 6+629        ; SS 353 KM 6+629        ,  POZZUOLO DEL FRIULI    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,763;1,763
+UD; TRICESIMO  ; SS 13 KM 139+866       ; SS 13 KM 139+866       ,  TRICESIMO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,761;1,761
+UD; CAMPOFORMIDO           ; SS 13 KM 120 VIA ZORUTTI 94   ; SS 13 KM 120 VIA ZORUTTI 94   ,  CAMPOFORMIDO           ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,76;1,76
+UD; UDINE      ; V.LE PALMANOVA 293     ; V.LE PALMANOVA 293     ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,757;1,757
+GO; MONFALCONE ; VIA BOITO 57           ; VIA BOITO 57           ,  MONFALCONE ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,757;1,757
+PN; MANIAGO    ; VIA V.EMANUELE 21      ; VIA V.EMANUELE 21      ,  MANIAGO    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,757;1,705
+GO; CORMONS    ; SS 56 KM 24 + 176      ; SS 56 KM 24 + 176      ,  CORMONS    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,756;1,756
+GO; MONFALCONE ; VIA GRADO 3; VIA GRADO 3,  MONFALCONE ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,755;1,755
+GO; ROMANS D'ISONZO        ; VIA DEL CASTELLIERE 50 ; VIA DEL CASTELLIERE 50 ,  ROMANS D'ISONZO        ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,755;1,755
+UD; CAVAZZO CARNICO        ; VIA ROMA 19; VIA ROMA 19,  CAVAZZO CARNICO        ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,755;1,755
+PN; ROVEREDO IN PIANO      ; VIA PIONIERI DELL'ARIA 40     ; VIA PIONIERI DELL'ARIA 40     ,  ROVEREDO IN PIANO      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,755;1,755
+UD; FORGARIA NEL FRIULI    ; CORNINO VIA NAPOLEONICA 9     ; CORNINO VIA NAPOLEONICA 9     ,  FORGARIA NEL FRIULI    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,755;1,745
+PN; CORDENONS  ; VIA SCLAVONS 100       ; VIA SCLAVONS 100       ,  CORDENONS  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,754;1,754
+UD; TRICESIMO  ; SS 13 KM 141+556       ; SS 13 KM 141+556       ,  TRICESIMO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,754;1,754
+UD; LATISANA   ; VIA CROSERE 20         ; VIA CROSERE 20         ,  LATISANA   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,754;1,754
+UD; BERTIOLO   ; VIA VIRCO 25           ; VIA VIRCO 25           ,  BERTIOLO   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,752;1,707
+UD; RIGOLATO   ; VIA REPUBBLICA 74      ; VIA REPUBBLICA 74      ,  RIGOLATO   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,751;1,751
+UD; GEMONA DEL FRIULI      ; VIA S.DANIELE 36       ; VIA S.DANIELE 36       ,  GEMONA DEL FRIULI      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,751;1,751
+UD; S. MARIA LA LONGA      ; VIA ZOMPICCO 93        ; VIA ZOMPICCO 93        ,  S. MARIA LA LONGA      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,751;1,711
+TS; TRIESTE    ; VIA DELL'ISTRIA 212    ; VIA DELL'ISTRIA 212    ,  TRIESTE    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,751;1,704
+UD; OVARO      ; VIA CARNIA LIBERA 45   ; VIA CARNIA LIBERA 45   ,  OVARO      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,751;1,669
+UD; PALUZZA    ; VIA ROMA 34; VIA ROMA 34,  PALUZZA    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,75;1,75
+UD; REANA DEL ROIALE       ; 6OC.ZOMPITTA VIA DEL PONTE 2  ; 6OC.ZOMPITTA VIA DEL PONTE 2  ,  REANA DEL ROIALE       ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,749;1,749
+UD; VENZONE    ; SS 13 PONTEBBANA 26    ; SS 13 PONTEBBANA 26    ,  VENZONE    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,749;1,749
+UD; CAMPOFORMIDO           ; VIA ADRIATICA 118      ; VIA ADRIATICA 118      ,  CAMPOFORMIDO           ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,748;1,748
+PN; CLAUZETTO  ; VIA FABRICIO 32        ; VIA FABRICIO 32        ,  CLAUZETTO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,748;1,748
+UD; SOCCHIEVE  ; VIA ROMA 10; VIA ROMA 10,  SOCCHIEVE  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,748;1,748
+UD; GONARS     ; LOC.FAUGLIS SP UNGARICA; LOC.FAUGLIS SP UNGARICA,  GONARS     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,748;1,708
+PN; BARCIS     ; CORTILE NAZARIO SAURO 2; CORTILE NAZARIO SAURO 2,  BARCIS     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,748;1,708
+PN; CLAUT      ; LOC.CELLINO DI SOTTO   ; LOC.CELLINO DI SOTTO   ,  CLAUT      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,748;1,656
+PN; SPILIMBERGO; VIA UMBERTO I 35       ; VIA UMBERTO I 35       ,  SPILIMBERGO;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,747;1,747
+UD; MORTEGLIANO; VIA DIVISIONE JULIA 8  ; VIA DIVISIONE JULIA 8  ,  MORTEGLIANO;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,746;1,699
+UD; NIMIS      ; PIAZZA MONS.BENIAMINO ALESSIO ; PIAZZA MONS.BENIAMINO ALESSIO ,  NIMIS      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,746;1,694
+UD; PORPETTO   ; VIA UDINE 65           ; VIA UDINE 65           ,  PORPETTO   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,745;1,745
+UD; PULFERO    ; VIA ROMA 74; VIA ROMA 74,  PULFERO    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,745;1,745
+UD; RIVIGNANO  ; 5IA UDINE 77 SP DI LATISANA   ; 5IA UDINE 77 SP DI LATISANA   ,  RIVIGNANO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,745;1,735
+UD; UDINE      ; VIA COLUGNA 175        ; VIA COLUGNA 175        ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,743;1,743
+UD; LUSEVERA   ; LOC.PRADIELIS          ; LOC.PRADIELIS          ,  LUSEVERA   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,743;1,743
+GO; GRADO      ; VIALE ARGINE MORERI 1  ; VIALE ARGINE MORERI 1  ,  GRADO      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,742;1,677
+GO; FOGLIANO REDIPUGLIA    ; VIA REDIPUGLIA  42     ; VIA REDIPUGLIA  42     ,  FOGLIANO REDIPUGLIA    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,741;1,741
+PN; AZZANO DECIMO          ; LOC.TIEZZO VIA CORVA 52/A     ; LOC.TIEZZO VIA CORVA 52/A     ,  AZZANO DECIMO          ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,741;1,694
+PN; ZOPPOLA    ; VIA DOMANINS 28        ; VIA DOMANINS 28        ,  ZOPPOLA    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,741;1,689
+UD; CAMINO AL TAGLIAMENTO  ; VIA BUGNINS 7/A        ; VIA BUGNINS 7/A        ,  CAMINO AL TAGLIAMENTO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,741;1,689
+UD; UDINE      ; VIA PAPAROTTI 1        ; VIA PAPAROTTI 1        ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,741;1,629
+UD; UDINE      ; TANGENZIALE OVEST SS KM129+429; TANGENZIALE OVEST SS KM129+429,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,74;1,695
+UD; BAGNARIA ARSA          ; VIA JULIA AUGUSTA 18   ; VIA JULIA AUGUSTA 18   ,  BAGNARIA ARSA          ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,74;1,67
+UD; MARTIGNACCO; VIA CIVIDINA 436       ; VIA CIVIDINA 436       ,  MARTIGNACCO;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,699
+UD; MERETO DI TOMBA        ; VIA DIVISIONE JULIA 5  ; VIA DIVISIONE JULIA 5  ,  MERETO DI TOMBA        ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,699
+UD; RUDA; VIA JEVADA 20 SAN NICCOLO'    ; VIA JEVADA 20 SAN NICCOLO'    ,  RUDA;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S/N;1,739;1,699
+UD; UDINE      ; VIA MARTIGNACCO 87     ; VIA MARTIGNACCO 87     ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,699
+UD; COSEANO    ; S.S. 464 KM 31+299     ; S.S. 464 KM 31+299     ,  COSEANO    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,695
+UD; LESTIZZA   ; FRAZ.GALLERIANO P.TE MADRISIO ; FRAZ.GALLERIANO P.TE MADRISIO ,  LESTIZZA   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,679
+UD; TALMASSONS ; SS. 252 KM 7+870       ; SS. 252 KM 7+870       ,  TALMASSONS ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,669
+UD; TRICESIMO  ; VIA PONTEBBANA SS13 KM 142+171; VIA PONTEBBANA SS13 KM 142+171,  TRICESIMO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,739;1,669
+PN; ROVEREDO IN PIANO      ; VIA PIONIERI DELL'ARIA 103    ; VIA PIONIERI DELL'ARIA 103    ,  ROVEREDO IN PIANO      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,738;1,683
+UD; CODROIPO   ; VIA PORDENONE 72       ; VIA PORDENONE 72       ,  CODROIPO   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,737;1,692
+UD; MARTIGNACCO; VIA SPILIMBERGO 152    ; VIA SPILIMBERGO 152    ,  MARTIGNACCO;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,737;1,637
+UD; REANA DEL ROIALE       ; VIA NAZIONALE 48       ; VIA NAZIONALE 48       ,  REANA DEL ROIALE       ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,736;1,736
+UD; UDINE      ; ADENAUER   ; ADENAUER   ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,736;1,676
+UD; ARTA TERME ; VIA NAZIONALE 3        ; VIA NAZIONALE 3        ,  ARTA TERME ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,735;1,735
+UD; BASILIANO  ; S.S. 13 KM 113         ; S.S. 13 KM 113         ,  BASILIANO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,735;1,683
+UD; BASILIANO  ; S.P. N. 10 KM 18+847   ; S.P. N. 10 KM 18+847   ,  BASILIANO  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,733;1,733
+UD; CAMPOFORMIDO           ; VIA 11 FEBBRAIO 126    ; VIA 11 FEBBRAIO 126    ,  CAMPOFORMIDO           ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,733;1,692
+UD; CERVIGNANO ; FZ. SCODOVACCA VIA GRADO 20   ; FZ. SCODOVACCA VIA GRADO 20   ,  CERVIGNANO ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,732;1,692
+UD; CODROIPO   ; BIVIO PALMANOVA-UDINE  ; BIVIO PALMANOVA-UDINE  ,  CODROIPO   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,732;1,692
+UD; CORNO DI ROSAZZO       ; S.S. 356 DI CIVIDALE KM 38+872; S.S. 356 DI CIVIDALE KM 38+872,  CORNO DI ROSAZZO       ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,73;1,69
+UD; FORNI AVOLTRI          ; SS 355 KM 25+998       ; SS 355 KM 25+998       ,  FORNI AVOLTRI          ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,73;1,67
+UD; FORNI DI SOPRA         ; LOC. CELLA VIA TRIESTE 2      ; LOC. CELLA VIA TRIESTE 2      ,  FORNI DI SOPRA         ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,73;1,66
+UD; LATISANA   ; FR.APRILIA MARITTIMA   ; FR.APRILIA MARITTIMA   ,  LATISANA   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  M;1,729;1,729
+UD; LATISANA   ; FZ.PERTEGADA VIA LIGNANO 31   ; FZ.PERTEGADA VIA LIGNANO 31   ,  LATISANA   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,729;1,679
+UD; LIGNANO SABBIADORO     ; CORSO DEI CONTINENTI 165      ; CORSO DEI CONTINENTI 165      ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  M;1,729;1,657
+UD; LIGNANO SABBIADORO     ; VIA MARINA PUNTO FARO  ; VIA MARINA PUNTO FARO  ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  M;1,728;1,668
+UD; MAJANO     ; VIA EUROPA UNITA 6     ; VIA EUROPA UNITA 6     ,  MAJANO     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,728;1,658
+UD; MARANO LAGUNARE        ; BANCHINA CANALE DI SAN VITO   ; BANCHINA CANALE DI SAN VITO   ,  MARANO LAGUNARE        ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  M;1,725;1,678
+UD; MUZZANA DEL TURGNANO   ; VIA PALAZZOLO 13       ; VIA PALAZZOLO 13       ,  MUZZANA DEL TURGNANO   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,715;1,715
+UD; PALAZZOLO DELLO STELLA ; VIA NAZIONALE 12       ; VIA NAZIONALE 12       ,  PALAZZOLO DELLO STELLA ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,711;1,711
+UD; PASIAN DI PRATO        ; FRAZ.PASSONS VIA DANTE 2      ; FRAZ.PASSONS VIA DANTE 2      ,  PASIAN DI PRATO        ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,711;1,711
+UD; PAVIA DI UDINE         ; VIA GRADO 48           ; VIA GRADO 48           ,  PAVIA DI UDINE         ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,711;1,711
+UD; RONCHIS    ; VIA LIGNANO 22         ; VIA LIGNANO 22         ,  RONCHIS    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,708;1,708
+UD; TAVAGNACCO ; VIA 4 NOVEMBRE 17      ; VIA 4 NOVEMBRE 17      ,  TAVAGNACCO ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,705;1,705
+UD; UDINE      ; SS 13 KM 128+830       ; SS 13 KM 128+830       ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,705;1,705
+UD; UDINE      ; VIA CIVIDALE 419       ; VIA CIVIDALE 419       ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,703;1,703
+UD; UDINE      ; VIA MARTIGNACCO 248    ; VIA MARTIGNACCO 248    ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,703;1,703
+UD; UDINE      ; VIA LUMIGNACCO SP 94 KM 0+828 ; VIA LUMIGNACCO SP 94 KM 0+828 ,  UDINE      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,701;1,701
+UD; VARMO      ; VIA CRESCENTIA 67      ; VIA CRESCENTIA 67      ,  VARMO      ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,699;1,699
+GO; GORIZIA    ; VIA TRIESTE 22         ; VIA TRIESTE 22         ,  GORIZIA    ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,699;1,699
+GO; MONFALCONE ; VIA NUOVA BAGNI        ; VIA NUOVA BAGNI        ,  MONFALCONE ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  M;1,699;1,699
+PN; AVIANO     ; LOC. MARSURE VIA TRIESTE 39   ; LOC. MARSURE VIA TRIESTE 39   ,  AVIANO     ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,699;1,699
+PN; BRUGNERA   ; STRADA PROVINCIALE N.75; STRADA PROVINCIALE N.75,  BRUGNERA   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,699;1,699
+PN; PASIANO DI PORDENONE   ; LOC.TRAFFE VIA S.MARTINO 4    ; LOC.TRAFFE VIA S.MARTINO 4    ,  PASIANO DI PORDENONE   ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,697;1,697
+PN; S. GIORGIO DELLA RICHINVELDA  ; SP. VAL D'ARZINO KM 337 + 706 ; SP. VAL D'ARZINO KM 337 + 706 ,  S. GIORGIO DELLA RICHINVELDA  ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,697;1,697
+PN; S. VITO AL TAGLIAMENTO ; VIA OBERDAN 82         ; VIA OBERDAN 82         ,  S. VITO AL TAGLIAMENTO ;" <img src=""img/loghi/IP.gif"" alt=""IP"" border=""0"">";  S;1,697;1,697
+PN; AVIANO     ; VIA SACILE 22          ; VIA SACILE 22          ,  AVIANO     ;" <img src=""img/loghi/LORO.gif"" alt=""LORO"" border=""0"">";  S;1,697;1,697
+PN; CANEVA     ; VIA VITTORIO VENETO 18 ; VIA VITTORIO VENETO 18 ,  CANEVA     ;" <img src=""img/loghi/LORO.gif"" alt=""LORO"" border=""0"">";  S;1,694;1,694
+UD; AQUILEIA   ; VIA GIULIA AUGUSTA 9   ; VIA GIULIA AUGUSTA 9   ,  AQUILEIA   ;" <img src=""img/loghi/OIL%20ITALIA.gif"" alt=""OIL ITALIA"" border=""0"">";  S;1,694;1,694
+UD; PALUZZA    ; VIA NAZIONALE 2        ; VIA NAZIONALE 2        ,  PALUZZA    ;" <img src=""img/loghi/OIL%20ITALIA.gif"" alt=""OIL ITALIA"" border=""0"">";  S;1,693;1,693
+UD; VENZONE    ; VIA PONTEBBANA 61      ; VIA PONTEBBANA 61      ,  VENZONE    ;" <img src=""img/loghi/OIL%20ITALIA.gif"" alt=""OIL ITALIA"" border=""0"">";  S;1,692;1,692
+GO; CORMONS    ; V.LE DELLA VENEZIA GIULIA 53  ; V.LE DELLA VENEZIA GIULIA 53  ,  CORMONS    ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,692;1,692
+UD; MALBORGHETTO VALBRUNA  ; A23 FELLA EST          ; A23 FELLA EST          ,  MALBORGHETTO VALBRUNA  ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  A/N;1,692;1,692
+GO; MARIANO DEL FRIULI     ; VIA MANZONI 164        ; VIA MANZONI 164        ,  MARIANO DEL FRIULI     ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,692;1,692
+UD; REMANZACCO ; SS 54 LOC.PONTE SUL TORRE     ; SS 54 LOC.PONTE SUL TORRE     ,  REMANZACCO ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,69;1,69
+UD; FIUMICELLO ; VIA LIBERTA' 4/A       ; VIA LIBERTA' 4/A       ,  FIUMICELLO ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,69;1,69
+PN; PRATA DI PORDENONE     ; VIA PUJA 14; VIA PUJA 14,  PRATA DI PORDENONE     ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,689;1,689
+UD; GONARS     ; SS 252 KM 19+978       ; SS 252 KM 19+978       ,  GONARS     ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,689;1,689
+TS; SGONICO    ; SP 35 DI OPICINA KM 7+076     ; SP 35 DI OPICINA KM 7+076     ,  SGONICO    ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,688;1,688
+UD; MANZANO    ; VIA S. GIOVANNI 92     ; VIA S. GIOVANNI 92     ,  MANZANO    ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,688;1,688
+UD; RONCHIS    ; CORSO ITALIA 75        ; CORSO ITALIA 75        ,  RONCHIS    ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,688;1,688
+UD; CASTIONS DI STRADA     ; VIA LATISANA 46        ; VIA LATISANA 46        ,  CASTIONS DI STRADA     ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,683;1,683
+GO; GRADO      ; TESTATA MOSCONI        ; TESTATA MOSCONI        ,  GRADO      ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  M;1,681;1,681
+GO; MONFALCONE ; VIA TERME ROMANE 5     ; VIA TERME ROMANE 5     ,  MONFALCONE ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,679;1,679
+PN; BRUGNERA   ; VIA CASUT 30           ; VIA CASUT 30           ,  BRUGNERA   ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,677;1,677
+PN; PORDENONE  ; VIA NUOVA DI CORVA 76  ; VIA NUOVA DI CORVA 76  ,  PORDENONE  ;" <img src=""img/loghi/OMV.gif"" alt=""OMV"" border=""0"">";  S;1,677;1,677
+UD; POZZUOLO DEL FRIULI    ; A23 ZUGLIANO EST       ; A23 ZUGLIANO EST       ,  POZZUOLO DEL FRIULI    ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  A/N;1,677;1,677
+UD; LATISANA   ; VIA LIGNANO 76         ; VIA LIGNANO 76         ,  LATISANA   ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,672;1,672
+TS; TRIESTE    ; STRADA DELLA ROSANDRA 62      ; STRADA DELLA ROSANDRA 62      ,  TRIESTE    ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,672;1,672
+PN; BRUGNERA   ; VIA SANTAROSSA 2       ; VIA SANTAROSSA 2       ,  BRUGNERA   ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,672;1,672
+UD; BERTIOLO   ; FRAZ.VIRCO S.P.95 KM 11+740   ; FRAZ.VIRCO S.P.95 KM 11+740   ,  BERTIOLO   ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,672;1,672
+UD; POVOLETTO  ; VIA MONTEBIANCO 2      ; VIA MONTEBIANCO 2      ,  POVOLETTO  ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,67;1,67
+UD; UDINE      ; LA SPEZIA LOC. GODIA SP 15    ; LA SPEZIA LOC. GODIA SP 15    ,  UDINE      ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,669;1,669
+PN; FONTANAFREDDA          ; VIALE VENEZIA 50       ; VIALE VENEZIA 50       ,  FONTANAFREDDA          ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,668;1,668
+PN; PORDENONE  ; VIALE VENEZIA 13       ; VIALE VENEZIA 13       ,  PORDENONE  ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,663;1,663
+GO; GRADO      ; LOC. PINETA VIA MONFALCONE    ; LOC. PINETA VIA MONFALCONE    ,  GRADO      ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,662;1,662
+PN; AVIANO     ; VIA PORDENONE 63       ; VIA PORDENONE 63       ,  AVIANO     ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;1,65;1,65
+UD; UDINE      ; VIA MENTANA 123        ; VIA MENTANA 123        ,  UDINE      ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+TS; DUINO AURISINA         ; VIA AURISINA 129       ; VIA AURISINA 129       ,  DUINO AURISINA         ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+UD; TAVAGNACCO ; VIALE VENEZIA SS 13 PONTEBBANA; VIALE VENEZIA SS 13 PONTEBBANA,  TAVAGNACCO ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S/N;;
+UD; UDINE      ; V.LE VENEZIA 506       ; V.LE VENEZIA 506       ,  UDINE      ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+UD; BASILIANO  ; SS 13 PONTEBBANA KM 18+611    ; SS 13 PONTEBBANA KM 18+611    ,  BASILIANO  ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+UD; CIVIDALE DEL FRIULI    ; SAN GUARZO ; SAN GUARZO ,  CIVIDALE DEL FRIULI    ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+UD; PALAZZOLO DELLO STELLA ; S.S 14 KM 88+860       ; S.S 14 KM 88+860       ,  PALAZZOLO DELLO STELLA ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+UD; TAVAGNACCO ; VIA NAZIONALE 62       ; VIA NAZIONALE 62       ,  TAVAGNACCO ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+TS; TRIESTE    ; VIA BAIAMONTI 1        ; VIA BAIAMONTI 1        ,  TRIESTE    ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+PN; SACILE     ; BORGO SCHIAVOI 7       ; BORGO SCHIAVOI 7       ,  SACILE     ;" <img src=""img/loghi/Q8.gif"" alt=""Q8"" border=""0"">";  S;;
+PN; SPILIMBERGO; VIA DELLA REPUBBLICA 4 ; VIA DELLA REPUBBLICA 4 ,  SPILIMBERGO;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+PN; SPILIMBERGO; DELL'OSPEDALE 1        ; DELL'OSPEDALE 1        ,  SPILIMBERGO;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; AMPEZZO    ; PIAZZA AI CADUTI 14    ; PIAZZA AI CADUTI 14    ,  AMPEZZO    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; S. GIORGIO DI NOGARO   ; VIA LEONARDO DA VINCI 3; VIA LEONARDO DA VINCI 3,  S. GIORGIO DI NOGARO   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+GO; RONCHI DEI LEGIONARI   ; VIA REDIPUGLIA 25      ; VIA REDIPUGLIA 25      ,  RONCHI DEI LEGIONARI   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; PRADAMANO  ; MAZZINI    ; MAZZINI    ,  PRADAMANO  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S/N;;
+UD; S. GIORGIO DI NOGARO   ; VIA LEONARDO DA VINCI  ; VIA LEONARDO DA VINCI  ,  S. GIORGIO DI NOGARO   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; MARTIGNACCO; VIA SPILIMBERGO 188    ; VIA SPILIMBERGO 188    ,  MARTIGNACCO;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; PASIAN DI PRATO        ; VIA CAMPOFORMIDO 82    ; VIA CAMPOFORMIDO 82    ,  PASIAN DI PRATO        ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+PN; PORDENONE  ; VIALE GRIGOLETTI 92    ; VIALE GRIGOLETTI 92    ,  PORDENONE  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+PN; PORDENONE  ; VIA MESTRE 9           ; VIA MESTRE 9           ,  PORDENONE  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,61;1,61
+GO; MONFALCONE ; VIA BOITO  43          ; VIA BOITO  43          ,  MONFALCONE ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,724;1,724
+GO; MONFALCONE ; VIA MATTEOTTI 23       ; VIA MATTEOTTI 23       ,  MONFALCONE ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,724;1,724
+GO; GORIZIA    ; V.AQUILEIA - FATEBENEFRATELLI ; V.AQUILEIA - FATEBENEFRATELLI ,  GORIZIA    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,724;1,724
+PN; PORDENONE  ; VIALE DELLA LIBERTA' N.60     ; VIALE DELLA LIBERTA' N.60     ,  PORDENONE  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,654;1,654
+GO; TURRIACO   ; VIA XXV APRILE 31      ; VIA XXV APRILE 31      ,  TURRIACO   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; UDINE      ; VIA PIERI 18           ; VIA PIERI 18           ,  UDINE      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; TOLMEZZO   ; VIA PALUZZA 110        ; VIA PALUZZA 110        ,  TOLMEZZO   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,679;1,679
+UD; TOLMEZZO   ; VIA 4 NOVEMBRE 6       ; VIA 4 NOVEMBRE 6       ,  TOLMEZZO   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; AMARO      ; SS 52 CARNIA KM 5+906  ; SS 52 CARNIA KM 5+906  ,  AMARO      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,733;1,668
+UD; VILLA SANTINA          ; SS 52 KM 18+760        ; SS 52 KM 18+760        ,  VILLA SANTINA          ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,728;1,678
+GO; CORMONS    ; SS 356 - KM 45 + 511   ; SS 356 - KM 45 + 511   ,  CORMONS    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,728;1,678
+UD; GEMONA DEL FRIULI      ; SS 13 KM 155+850       ; SS 13 KM 155+850       ,  GEMONA DEL FRIULI      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,719;1,719
+UD; LIGNANO SABBIADORO     ; FZ.PINETA VIA TARVISIO 59     ; FZ.PINETA VIA TARVISIO 59     ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,716;1,696
+UD; TAVAGNACCO ; VIA NAZIONALE 10       ; VIA NAZIONALE 10       ,  TAVAGNACCO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,705;1,705
+UD; UDINE      ; VIA ADENHAUER 2        ; VIA ADENHAUER 2        ,  UDINE      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,699;1,699
+GO; GRADISCA D'ISONZO      ; VIALE TRIESTE 50/A     ; VIALE TRIESTE 50/A     ,  GRADISCA D'ISONZO      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,698;1,698
+TS; MONRUPINO  ; AUTOPORTO FERNETTI     ; AUTOPORTO FERNETTI     ,  MONRUPINO  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,695;1,695
+PN; SACILE     ; VIALE DELLA REPUBBLICA 49     ; VIALE DELLA REPUBBLICA 49     ,  SACILE     ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,695;1,695
+PN; SACILE     ; VIALE DELLA REPUBBLICA 36     ; VIALE DELLA REPUBBLICA 36     ,  SACILE     ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,694;1,694
+UD; CERVIGNANO ; VIA CISIS SS 352 KM 21+145    ; VIA CISIS SS 352 KM 21+145    ,  CERVIGNANO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,689;1,689
+UD; UDINE      ; V.LE PALMANOVA 75      ; V.LE PALMANOVA 75      ,  UDINE      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,679;1,679
+TS; TRIESTE    ; V.LE CAMPI ELISI 1/1   ; V.LE CAMPI ELISI 1/1   ,  TRIESTE    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,677;1,677
+PN; PORDENONE  ; VIALE TREVISO 11       ; VIALE TREVISO 11       ,  PORDENONE  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,668;1,668
+UD; UDINE      ; VIA GENERAL CANTORE 40 ; VIA GENERAL CANTORE 40 ,  UDINE      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,625;1,625
+PN; S. GIORGIO DELLA RICHINVELDA  ; SS CIMPELLO SEQUALS KM 11+800 ; SS CIMPELLO SEQUALS KM 11+800 ,  S. GIORGIO DELLA RICHINVELDA  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,625;1,625
+UD; PRADAMANO  ; S.R. 56 VIA NAZIONALE  ; S.R. 56 VIA NAZIONALE  ,  PRADAMANO  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+PN; PORDENONE  ; VIA PIAVE 8/A          ; VIA PIAVE 8/A          ,  PORDENONE  ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; PRECENICCO ; SS 14 KM 83+705        ; SS 14 KM 83+705        ,  PRECENICCO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; CERVIGNANO ; VIA DELLA FERROVIA VECCHIA    ; VIA DELLA FERROVIA VECCHIA    ,  CERVIGNANO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+UD; TAVAGNACCO ; VIA ALFIERI 10         ; VIA ALFIERI 10         ,  TAVAGNACCO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+PN; S. VITO AL TAGLIAMENTO ; VIALE UDINE SS463 KM 45+719   ; VIALE UDINE SS463 KM 45+719   ,  S. VITO AL TAGLIAMENTO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;;
+PN; S. VITO AL TAGLIAMENTO ; VIALE MADONNA DI ROSA 18      ; VIALE MADONNA DI ROSA 18      ,  S. VITO AL TAGLIAMENTO ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,75;1,75
+UD; LATISANA   ; VIA LIGNANO NORD LOC. GORGO   ; VIA LIGNANO NORD LOC. GORGO   ,  LATISANA   ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,724;1,724
+UD; PASIAN DI PRATO        ; VIA CAMPOFORMIDO 20    ; VIA CAMPOFORMIDO 20    ,  PASIAN DI PRATO        ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,709;1,709
+UD; UDINE      ; S.S.352 KM 0+342       ; S.S.352 KM 0+342       ,  UDINE      ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,707;1,707
+TS; TRIESTE    ; VIA LOCCHI 3           ; VIA LOCCHI 3           ,  TRIESTE    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,707;1,707
+TS; TRIESTE    ; VIA RAFFAELLO SANZIO   ; VIA RAFFAELLO SANZIO   ,  TRIESTE    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,707;1,707
+PN; ZOPPOLA    ; VIA PONTEBBANA 4       ; VIA PONTEBBANA 4       ,  ZOPPOLA    ;" <img src=""img/loghi/SHELL.gif"" alt=""SHELL"" border=""0"">";  S;1,707;1,707
+GO; CORMONS    ; SS 56 KM 21+051        ; SS 56 KM 21+051        ,  CORMONS    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,689;1,689
+UD; CIVIDALE DEL FRIULI    ; VIA CARRARIA 62        ; VIA CARRARIA 62        ,  CIVIDALE DEL FRIULI    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,678;1,678
+UD; COLLOREDO DI MONTALBANO; A23 LEDRA EST          ; A23 LEDRA EST          ,  COLLOREDO DI MONTALBANO;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  A/N;1,677;1,677
+UD; TOLMEZZO   ; ZONA IND.VIA SELET 20  ; ZONA IND.VIA SELET 20  ,  TOLMEZZO   ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,674;1,674
+UD; MOGGIO UDINESE         ; A23 CAMPIOLO           ; A23 CAMPIOLO           ,  MOGGIO UDINESE         ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  A/N;1,673;1,673
+UD; OVARO      ; VIA CADUTI DELLA LIBERTA' 13  ; VIA CADUTI DELLA LIBERTA' 13  ,  OVARO      ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,672;1,672
+TS; TRIESTE    ; VIA F.SEVERO 2/3       ; VIA F.SEVERO 2/3       ,  TRIESTE    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,672;1,672
+TS; TRIESTE    ; V.LE MIRAMARE 233/1    ; V.LE MIRAMARE 233/1    ,  TRIESTE    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,671;1,671
+PN; PORDENONE  ; VIA PIAVE 129          ; VIA PIAVE 129          ,  PORDENONE  ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,67;1,67
+GO; GORIZIA    ; VIA LUNGO ISONZO ARGENTINA 110; VIA LUNGO ISONZO ARGENTINA 110,  GORIZIA    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,67;1,67
+UD; AMPEZZO    ; VIA NAZIONALE 117      ; VIA NAZIONALE 117      ,  AMPEZZO    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,67;1,67
+UD; UDINE      ; VIA FELETTO 233        ; VIA FELETTO 233        ,  UDINE      ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,67;1,67
+UD; PAGNACCO   ; VIA UDINE 10           ; VIA UDINE 10           ,  PAGNACCO   ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,67;1,67
+UD; CASSACCO   ; SS 13 KM 144+300       ; SS 13 KM 144+300       ,  CASSACCO   ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,669;1,669
+PN; AZZANO DECIMO          ; VIA VALLER 21          ; VIA VALLER 21          ,  AZZANO DECIMO          ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,669;1,669
+UD; SEDEGLIANO ; LOC.GRADISCA VIA OSOPPO 17    ; LOC.GRADISCA VIA OSOPPO 17    ,  SEDEGLIANO ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,668;1,668
+PN; MANIAGO    ; VIA UNITA' D'ITALIA 3  ; VIA UNITA' D'ITALIA 3  ,  MANIAGO    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,667;1,667
+PN; PORCIA     ; CORSO ZANUSSI 62       ; CORSO ZANUSSI 62       ,  PORCIA     ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,667;1,667
+PN; CHIONS     ; VIA PRIMO MAGGIO       ; VIA PRIMO MAGGIO       ,  CHIONS     ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,667;1,667
+UD; UDINE      ; ADENAUER   ; ADENAUER   ,  UDINE      ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,667;1,667
+UD; CODROIPO   ; VIALE VENEZIA 179/181  ; VIALE VENEZIA 179/181  ,  CODROIPO   ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,667;1,667
+UD; DIGNANO    ; VIA DE GASPERI 41      ; VIA DE GASPERI 41      ,  DIGNANO    ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,665;1,665
+UD; GONARS     ; A4 GONARS SUD          ; A4 GONARS SUD          ,  GONARS     ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  A/N;1,665;1,665
+UD; REANA DEL ROIALE       ; VIA SAN MARCO 2        ; VIA SAN MARCO 2        ,  REANA DEL ROIALE       ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,665;1,665
+UD; S. VITO DI FAGAGNA     ; VIA NUOVA 3; VIA NUOVA 3,  S. VITO DI FAGAGNA     ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,664;1,664
+PN; MONTEREALE VALCELLINA  ; VIA S.MARTINO 111      ; VIA S.MARTINO 111      ,  MONTEREALE VALCELLINA  ;" <img src=""img/loghi/TAMOIL.gif"" alt=""TAMOIL"" border=""0"">";  S;1,664;1,664
+PN; CANEVA     ; VIA SACILE ; VIA SACILE ,  CANEVA     ;" <img src=""img/loghi/TERMOVENETA.gif"" alt=""TERMOVENETA"" border=""0"">";  S;1,664;1,664
+TS; DUINO AURISINA         ; A4 DUINO NORD          ; A4 DUINO NORD          ,  DUINO AURISINA         ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  A/N;1,664;1,664
+PN; BRUGNERA   ; A28 BRUGNERA SUD       ; A28 BRUGNERA SUD       ,  BRUGNERA   ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  A/N;1,664;1,664
+PN; PORCIA     ; A28 PORCIA NORD        ; A28 PORCIA NORD        ,  PORCIA     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  A/N;1,664;1,664
+TS; TRIESTE    ; V. BRIGATA CASALE KM 4 ; V. BRIGATA CASALE KM 4 ,  TRIESTE    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,664;1,664
+UD; POZZUOLO DEL FRIULI    ; A23 - ZUGLIANO OVEST   ; A23 - ZUGLIANO OVEST   ,  POZZUOLO DEL FRIULI    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  A/N;1,664;1,664
+UD; PONTEBBA   ; VIA CAVOUR 34          ; VIA CAVOUR 34          ,  PONTEBBA   ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,664;1,664
+PN; S. GIORGIO DELLA RICHINVELDA  ; VIA RICHINVELDA 8      ; VIA RICHINVELDA 8      ,  S. GIORGIO DELLA RICHINVELDA  ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,664;1,664
+UD; MANZANO    ; VIA DELLA STAZIONE 78  ; VIA DELLA STAZIONE 78  ,  MANZANO    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,658;1,658
+UD; MANZANO    ; V.LE TRIESTE 11        ; V.LE TRIESTE 11        ,  MANZANO    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,658;1,658
+UD; POCENIA    ; VIA VENEZIA 90         ; VIA VENEZIA 90         ,  POCENIA    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,658;1,658
+PN; SESTO AL REGHENA       ; VIA S.LUCIA 23         ; VIA S.LUCIA 23         ,  SESTO AL REGHENA       ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,658;1,658
+PN; PRATA DI PORDENONE     ; VIA ODERZO 13          ; VIA ODERZO 13          ,  PRATA DI PORDENONE     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,657;1,657
+UD; SEDEGLIANO ; VIA PROVINCIALE 12     ; VIA PROVINCIALE 12     ,  SEDEGLIANO ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,657;1,657
+PN; FONTANAFREDDA          ; VIA GIOL 22; VIA GIOL 22,  FONTANAFREDDA          ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,657;1,657
+UD; UDINE      ; VIA MARSALA 27         ; VIA MARSALA 27         ,  UDINE      ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,657;1,657
+UD; OVARO      ; VIA CARNIA LIBERA 21   ; VIA CARNIA LIBERA 21   ,  OVARO      ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,657;1,657
+UD; LATISANA   ; VIA SOTTOPOVOLO        ; VIA SOTTOPOVOLO        ,  LATISANA   ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,657;1,657
+UD; BASILIANO  ; VIALE EUROPA UNITA 40  ; VIALE EUROPA UNITA 40  ,  BASILIANO  ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,654;1,654
+GO; GRADO      ; VIALE DEI MORERI       ; VIALE DEI MORERI       ,  GRADO      ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,637;1,637
+UD; BUIA; VIA PROVINCIALE OSOVANA 27    ; VIA PROVINCIALE OSOVANA 27    ,  BUIA;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; MAGNANO IN RIVIERA     ; SS 13 KM 149+723       ; SS 13 KM 149+723       ,  MAGNANO IN RIVIERA     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; DIGNANO    ; VIA UDINE 39           ; VIA UDINE 39           ,  DIGNANO    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; LIGNANO SABBIADORO     ; V.LE EUROPA 154        ; V.LE EUROPA 154        ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+PN; PASIANO DI PORDENONE   ; VIA ROMA 159           ; VIA ROMA 159           ,  PASIANO DI PORDENONE   ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; MAJANO     ; VIA UDINE 1; VIA UDINE 1,  MAJANO     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; UDINE      ; VIALE CACCIA 23        ; VIALE CACCIA 23        ,  UDINE      ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+PN; AZZANO DECIMO          ; VIA PEZZUT 15          ; VIA PEZZUT 15          ,  AZZANO DECIMO          ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+PN; CASARSA DELLA DELIZIA  ; VIA PLEBISCITO 35      ; VIA PLEBISCITO 35      ,  CASARSA DELLA DELIZIA  ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+PN; SACILE     ; VIALE S.GIOVANNI 19    ; VIALE S.GIOVANNI 19    ,  SACILE     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+PN; VALVASONE  ; VIA TRIESTE 16         ; VIA TRIESTE 16         ,  VALVASONE  ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; LIGNANO SABBIADORO     ; V.LE EUROPA 112/A      ; V.LE EUROPA 112/A      ,  LIGNANO SABBIADORO     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+UD; TAVAGNACCO ; VIA BUONARROTI 10      ; VIA BUONARROTI 10      ,  TAVAGNACCO ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,728;1,728
+UD; TAVAGNACCO ; VIA NAZIONALE 44       ; VIA NAZIONALE 44       ,  TAVAGNACCO ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,718;1,718
+PN; S. VITO AL TAGLIAMENTO ; VIA UDINE 6; VIA UDINE 6,  S. VITO AL TAGLIAMENTO ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,718;1,679
+PN; S. QUIRINO ; VIA PORDENONE N.2/A    ; VIA PORDENONE N.2/A    ,  S. QUIRINO ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,704;1,704
+GO; FOGLIANO REDIPUGLIA    ; VIA PIETRO MICCA 15    ; VIA PIETRO MICCA 15    ,  FOGLIANO REDIPUGLIA    ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,704;1,704
+PN; PORDENONE  ; VIA TREVISO 62         ; VIA TREVISO 62         ,  PORDENONE  ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,692;1,692
+UD; BUIA; VIA PROVINCIALE OSOVANA 86    ; VIA PROVINCIALE OSOVANA 86    ,  BUIA;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,688;1,688
+UD; UDINE      ; V.LE FERRIERE 3/C      ; V.LE FERRIERE 3/C      ,  UDINE      ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,688;1,688
+PN; AZZANO DECIMO          ; VIA FIUMICINO 19       ; VIA FIUMICINO 19       ,  AZZANO DECIMO          ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;;
+PN; CANEVA     ; VIA ROMA 6 ; VIA ROMA 6 ,  CANEVA     ;" <img src=""img/loghi/TOTAL.gif"" alt=""TOTAL"" border=""0"">";  S;1,688;1,688
+TS; DUINO AURISINA         ; FRAZ.SISTIANA SS 202   ; FRAZ.SISTIANA SS 202   ,  DUINO AURISINA         ;" <img src=""img/loghi/VEGA.gif"" alt=""VEGA"" border=""0"">";  S;1,682;1,682
+PN; FIUME VENETO           ; VIA S. VITO  34/A      ; VIA S. VITO  34/A      ,  FIUME VENETO           ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,681;1,681
+UD; MOIMACCO   ; NAZIONALE  38 SS 54 KM 10+739 ; NAZIONALE  38 SS 54 KM 10+739 ,  MOIMACCO   ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,672;1,672
+GO; GRADISCA   ; VIA PALMANOVA  63/A    ; VIA PALMANOVA  63/A    ,  GRADISCA   ;" <img src=""img/loghi/FLY.gif"" alt=""FLY"" border=""0"">";  S;1,665;1,665
+PN; PORDENONE  ; VIALE GRIGOLETTI  72/B ; VIALE GRIGOLETTI  72/B ,  PORDENONE  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S;1,639;1,639
+UD; S. DANIELE DEL FRIULI  ; VIA VENEZIA  89/91     ; VIA VENEZIA  89/91     ,  S. DANIELE DEL FRIULI  ;" <img src=""img/loghi/AGIP.gif"" alt=""AGIP"" border=""0"">";  S/N;1,76;1,76

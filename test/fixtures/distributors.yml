@@ -1,0 +1,19 @@
+one:
+  provincia: MyString
+  comune: MyString
+  indirizzo: MyString
+  fulladdress: MyString
+  img_url: MyString
+  tipo: MyString
+  prezzo: MyString
+  prezzo_min: MyString
+
+two:
+  provincia: MyString
+  comune: MyString
+  indirizzo: MyString
+  fulladdress: MyString
+  img_url: MyString
+  tipo: MyString
+  prezzo: MyString
+  prezzo_min: MyString
